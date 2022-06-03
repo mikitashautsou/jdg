@@ -168,6 +168,13 @@
 - [Wfirma](https://wfirma.pl/)
 - [Fakturowo](https://www.fakturowo.pl/)
 - [Siiami](http://siiami.pl/)
+## Переводчики
+
+[Полный список](https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html?City=Warszawa&Reg=7&Language=1) (по умолчанию установлен город Варшава, английский язык)
+
+Рекомендации
+ - Aleksandra Dolak <aleksandra.dolak1@gmail.com>
+ - Hania 601 221 552
 
 ## Влияет ли ведение ИП в квартире на налог на недвижимость?
 TL;DR Нет.
